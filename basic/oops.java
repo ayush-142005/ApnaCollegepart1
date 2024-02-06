@@ -117,14 +117,7 @@ class circle extends shape{
         System.out.println(3.14*r*r);
     }
 
-}
-public class oops {
-    public static void main(String[] args) {
-
-    }
 }*/
-public class oops {
-    public static void main(String[] args) {
-        System.out.println(" hello world");
-    }
-}
+
+
+
